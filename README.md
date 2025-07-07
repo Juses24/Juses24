@@ -1,5 +1,14 @@
-# Hi there! 👋
+# 👋 Hello! Welcome to my GitHub
 
-## JavaScript 🐹🚀 • TypeScript & React ⚛️
+## 🚀 Fullstack Developer | 👨‍💻 JavaScript, TypeScript & React | 🛡️ Postgraduated specialization in Cybersecurity | CEH | CySA+ | ISO/IEC 27001
 
-Welcome to my GitHub profile!
+---
+
+## 🧠 What drives me
+
+- 📚 Continuous learning
+- 🧩 Analytical thinking and problem-solving
+- 🛠️ Writing clean, scalable, and well-documented code
+- 🤝 Teamwork with a focus on real-world impact
+
+
