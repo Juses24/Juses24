@@ -1,4 +1,4 @@
-# 👋 Hello! Welcome to my GitHub
+# Hi 👋, I'm software Engeneering and Pentester
 
 ## 🚀 Fullstack Developer | 👨‍💻 JavaScript, TypeScript & React | 🛡️ Postgraduated specialization in Cybersecurity | CEH | CySA+ | ISO/IEC 27001
 
