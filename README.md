@@ -2,8 +2,6 @@
 
 ## 🚀 Fullstack Developer | 👨‍💻 JavaScript, TypeScript & React | 🛡️ Postgraduated specialization in Cybersecurity | CEH | CySA+ | ISO/IEC 27001
 
----
-
 ## 🧠 What drives me
 
 - 📚 Continuous learning
